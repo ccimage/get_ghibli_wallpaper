@@ -10,6 +10,8 @@ nodejs spyder for ghibli wallpaper
 1. npm i 安装依赖
 2. 修改文件保存的路径 gFilePath 
 3. 执行 node index.js 等待完成
+
+
 =======================================================
 
 
