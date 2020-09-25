@@ -11,6 +11,8 @@ nodejs spyder for ghibli wallpaper
 2. 修改文件保存的路径 gFilePath 
 3. 执行 node index.js 等待完成
 
+------------------------------------------------------------------------------------
+English
 -- 
 
 Depen on  thirdpart：  cheerio and bluebird
